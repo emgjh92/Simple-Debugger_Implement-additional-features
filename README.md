@@ -1,5 +1,5 @@
 # Simple-Debugger_Implement-additional-features
-# (Project period : 2018-04-20 ~ 2018-06-20)
+# (Project period : 2018-05-20 ~ 2018-06-20)
 
 Simple Debugger(Original_source_code.c) 의 소스코드를 분석하고 추가적인 기능을 구현하는 프로젝트
 
